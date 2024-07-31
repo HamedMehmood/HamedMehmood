@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Python**
 
-- 👯 I’m looking to collaborate on [AGS](https://albrighton-group.co.uk/)
+- 👯 I have Collaboration with [AGS](https://albrighton-group.co.uk/) in England
 
 - 📫 How to reach me **hamid_mehmood@hotmail.com**
 
